@@ -6,7 +6,7 @@ You can find the course website in [UCSD CSE 110 Canvas](https://canvas.ucsd.edu
 
 First, let's have a general view to [UCSD](https://ucsd.edu), and here is the picture of my school:
 
-![image1] (https://timesofsandiego.com/wp-content/uploads/2020/07/UCSD-UC-San-Diego.jpg)
+![image1](https://timesofsandiego.com/wp-content/uploads/2020/07/UCSD-UC-San-Diego.jpg)
 
 ```markdown
 
