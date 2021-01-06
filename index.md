@@ -2,7 +2,7 @@
 
 You can find the course website in [UCSD CSE 110 Canvas](https://canvas.ucsd.edu/courses/21783) 
 
-### Overview
+### :small_airplane: Overview
 
 First, let's have a general view to [UCSD](https://ucsd.edu), and here is the picture of my school:
 
