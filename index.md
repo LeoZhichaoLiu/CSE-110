@@ -15,22 +15,23 @@ And here is our *CSE department*:
 ### :rocket: Personal Statement
 
 My name is Zhichao Liu, a international student from China. Here is the interest I have:
-> - Chinese Ancient History
-> - Soccer
-> - Drawing
-> - Writing 
-> - Animation 
+- Chinese Ancient History
+> West Han Dynasty, Jin Dynasty, Ming Dynasty
+- Soccer
+> Chelsea Fans
+- Drawing
+- Writing 
+- Animation 
+
 
 ### :artificial_satellite: Goal
 
-```
 -[x] Writing the Github Page
 -[] Idea and Design
 -[] UI
 -[] Databas
 -[] Network
 -[] Testing
-```
 
 ### Support or Contact
 
