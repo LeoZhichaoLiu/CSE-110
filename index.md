@@ -8,6 +8,9 @@ First, let's have a general view to [UCSD](https://ucsd.edu), and here is the pi
 
 ![image1](https://timesofsandiego.com/wp-content/uploads/2020/07/UCSD-UC-San-Diego.jpg)
 
+And here is our *CSE department*:
+![image2](https://chronicle.brightspotcdn.com/d3/32/9b1356f80cf89cf03bea8a744cd0/cropped-calit2-3.jpg)
+
 ```markdown
 
 ```
