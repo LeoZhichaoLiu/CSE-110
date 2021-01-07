@@ -43,14 +43,14 @@ If you have any interest in our project, feel free to send me message through em
 <table>
 <thead>
 <tr>
-<th>foo</th>
-<th>bar</th>
+<th>UCSD</th>
+<th>CSE 110</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>baz</td>
-<td>bim</td>
+<td>Jan 07</td>
+<td>2021</td>
 </tr>
 </tbody>
 </table>
