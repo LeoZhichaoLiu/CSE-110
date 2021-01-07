@@ -1,6 +1,7 @@
 ## Welcome to Zhichao Liu's GitHub Page
 
 You can find the course website in [UCSD CSE 110 Canvas](https://canvas.ucsd.edu/courses/21783) 
+
 You can edit this file by changing the configure file [configure file](./_config.yml)
 
 ### :small_airplane: Overview
