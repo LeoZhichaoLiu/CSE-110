@@ -18,7 +18,7 @@ And here is our *CSE department*:
 
 ### :rocket: Personal Statement
 
-My name is Zhichao Liu, a international student from China. Here is the interest I have:
+My name is Zhichao Liu, a international student from China. Here are the interests I have:
 1. Chinese Ancient History 
    - [West Han Dynasty](https://en.wikipedia.org/wiki/Han_dynasty)
    - [Jin Dynasty](https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420))
@@ -35,6 +35,7 @@ My name is Zhichao Liu, a international student from China. Here is the interest
    - [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
    - [Fullmetal Alchemist](https://en.wikipedia.org/wiki/Fullmetal_Alchemist)
 
+![Animation](https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg)
 
 ### :artificial_satellite: Goal
 
