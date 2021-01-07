@@ -13,6 +13,8 @@ First, let's have a general view to [UCSD](https://ucsd.edu), and here is the pi
 And here is our *CSE department*:
 ![image2](https://chronicle.brightspotcdn.com/d3/32/9b1356f80cf89cf03bea8a744cd0/cropped-calit2-3.jpg)
 
+>The University of California, San Diego (UC San Diego or, colloquially, UCSD) is a public land-grant research university in San Diego, California. Established in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the southernmost of the ten campuses of the University of California, and offers over 200 undergraduate and graduate degree programs, enrolling 31,842 undergraduate and 8,631 graduate students. The university occupies 2,178 acres (881 ha) near the coast of the Pacific Ocean, with the main campus resting on approximately 1,152 acres (466 ha)
+
 
 ### :rocket: Personal Statement
 
