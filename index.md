@@ -2,7 +2,7 @@
 
 You can find the course website in [UCSD CSE 110 Canvas](https://canvas.ucsd.edu/courses/21783) 
 
-You can edit this file by changing the configure file [configure file](./_config.yml)
+You can edit this file by changing the [configure file](./_config.yml)
 
 ### :small_airplane: Overview
 
@@ -39,3 +39,18 @@ My name is Zhichao Liu, a international student from China. Here is the interest
 ### Support or Contact
 
 If you have any interest in our project, feel free to send me message through email: `z5liu@ucsd.edu`
+
+<table>
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
